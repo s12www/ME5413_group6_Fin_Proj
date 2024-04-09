@@ -1,0 +1,8 @@
+<launch>
+
+  
+  <!-- Launch GMapping -->
+  <include file="$(find aloam_velodyne)/launch/aloam_velodyne_VLP_16.launch" />
+
+
+</launch>
